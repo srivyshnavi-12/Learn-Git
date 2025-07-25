@@ -1,0 +1,1 @@
+hello this is sample txt file I'm using to practice my git commands in git bash
